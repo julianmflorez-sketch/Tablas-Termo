@@ -14,3 +14,5 @@ Ver el archivo [LICENSE](LICENSE) para más detalles.
 Si deseas usar, modificar o distribuir este software **sin cumplir con los términos de la GPLv3** (por ejemplo, para venderlo como producto cerrado), debes obtener una **licencia comercial**.
 
 Contacto: julianmflorez-sketch@users.noreply.github.com
+julianmflorez@unicauca.edu.co 
+florezgomezjulian@gmail.com
