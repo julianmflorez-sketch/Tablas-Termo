@@ -1,17 +1,16 @@
-# termo_app
+# Tablas-Termo
 
-A new Flutter project.
+  Aplicación que contiene datos experimentales extraidos del libro de termodinámica de cengel, con 2 datos cualesquiera puede obtener las demas. Incluye: temperatura, presion, entalpia, volumne especifico, energia interna, entropia y estado.
+  incluye fnciones de interpolacion lineal y bilineal.
+  la aplicacion esta cargada con datos de saturación y de vapor sobrecalentado, se exceptuó los de liquido comprimido ya que se puede aproximar a los de liquido saturado
 
-## Getting Started
+## Licencia
 
-This project is a starting point for a Flutter application.
+Este proyecto está licenciado bajo la **GNU General Public License v3.0**.
+Ver el archivo [LICENSE](LICENSE) para más detalles.
 
-A few resources to get you started if this is your first Flutter project:
+### Licencia comercial
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Si deseas usar, modificar o distribuir este software **sin cumplir con los términos de la GPLv3** (por ejemplo, para venderlo como producto cerrado), debes obtener una **licencia comercial**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contacto: julianmflorez-sketch@users.noreply.github.com
